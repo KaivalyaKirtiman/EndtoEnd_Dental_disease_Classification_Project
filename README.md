@@ -1,1 +1,1 @@
-# EndtoEnd_Dental_disease_Classificatio_Project
+# EndtoEnd_Dental_disease_Classification_Project
