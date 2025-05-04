@@ -1,0 +1,18 @@
+tensorflow==2.12.0
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+pyYAML
+tqdm
+joblib
+mlflow==2.2.2
+dvc
+python-box==6.0.2
+types-PyYAML
+Flask
+Flask-Cors
+notebook
+-e .
